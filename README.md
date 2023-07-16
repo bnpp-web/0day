@@ -19,7 +19,7 @@ It's simple
 4. - after Active your Copy You can Login and Enjoy the Power
 - # -----------------
 ### screenshot:
-[Semantic description of image](/screan/Screenshot_1.png)*My caption*
+[ALT](/screan/Screenshot_1.png)
 
 
 
