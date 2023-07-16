@@ -19,7 +19,8 @@ It's simple
 4. - after Active your Copy You can Login and Enjoy the Power
 - # -----------------
 ### screenshot:
-[ALT](/screan/Screenshot_1.png)
+[image 1](/screan/Screenshot_1.png)
+[image 2](/screan/Screenshot_2.png)
 
 
 
