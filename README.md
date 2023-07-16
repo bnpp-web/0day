@@ -7,8 +7,8 @@ You can try it for free and completely
 It's simple
 
 - Install Python 3.X
-2 - Download 0day.exe and Run it
-3 - Active Your 0day and enjoy
+2. - Download 0day.exe and Run it
+3. - Active Your 0day and enjoy
 
 ### how to Active 0Day ?
 
