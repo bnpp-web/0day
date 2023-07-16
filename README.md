@@ -17,7 +17,7 @@ It's simple
 2. - Installing modules will be Auto after run 0Day
 3. - contact support from option [3] in 0day sent Message and wait for active your 0day
 4. - after Active your Copy You can Login and Enjoy the Power
-- # ----------------------------------------------------------------------------------#
+- # -----------------
 ### screenshot:
 
 
