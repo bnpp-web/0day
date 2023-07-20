@@ -30,4 +30,4 @@ It's simple
 - [image 4](/screan/Screenshot_4.png)
 - [image 5](/screan/Screenshot_5.png)
 
-- Download Link : https://qonto-mobile.ml/0day_1_0_0_9.exe
+- Download Link : https://www.mediafire.com/file/qianc6ck0opcdtd/0day_1_0_0_9.zip/file
