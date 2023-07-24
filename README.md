@@ -1,9 +1,10 @@
 ## 0day Private Tools
-Last Update : 1.0.0.9
+Last Update : 1.0.1.2
 
 ## Update Log
 - Phonex Now Support Validate Number From Text file
 - add Full Log For SMS Graber
+- PowerMTA Databass Connect to Extract Email (private)
 
 
 This version contains more secret codes
@@ -30,4 +31,4 @@ It's simple
 - [image 4](/screan/Screenshot_4.png)
 - [image 5](/screan/Screenshot_5.png)
 
-- Download Link : https://www.mediafire.com/file/qianc6ck0opcdtd/0day_1_0_0_9.zip/file
+- Download Link : https://www.mediafire.com/file/7b4uu8mfail7ayh/0day_1_0_1_2.zip/file
