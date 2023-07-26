@@ -31,4 +31,4 @@ It's simple
 - [image 4](/screan/Screenshot_4.png)
 - [image 5](/screan/Screenshot_5.png)
 
-- Download Link : https://www.mediafire.com/file/yhxiuzflrpiu6vy/0day_1_0_1_2.zip/file
+- Download Link : https://zero-day.shop/download/0day_1_0_1_2.zip
