@@ -25,6 +25,8 @@ It's simple
 1. - Open 0day.exe file in cmd you can use (cmder) or your Owen CMD console
 - CMDER Official Website ttps://cmder.app
 2. - Installing modules will be Auto after run 0Day
+
+to Create any idia contact me : admin@zero-day.shop
 - # -----------------
 ### screenshot:
 - [image 1](/screan/Screenshot_1.png)
