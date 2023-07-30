@@ -17,7 +17,7 @@ It's simple
 1. - Install Python 3.X
 2. - Download 0day_1_0_1_3.exe and Run it using cmd
    - if you get this Error [ [100] Failed to execute script '0day_1_0_1_3' due to unhandled exception! ]
-   - open cmd and enter to Folder using [ cd folder_name ]
+   - open cmd and enter to Folder using [ cd 0day_folder_name ]
 3. - Setup Your password and enjoy
 
 ### how to Active 0Day ?
