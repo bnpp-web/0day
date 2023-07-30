@@ -1,10 +1,12 @@
 ## 0day Private Tools
-Last Update : 1.0.1.2
+Last Update : 1.0.1.3
 
 ## Update Log
 - Phonex Now Support Validate Number From Text file
 - add Full Log For SMS Graber
 - PowerMTA Databass Connect to Extract Email (private)
+- Telegram Bigbang Bot Control [NEW]
+- SMTP to SMS
 
 
 This version contains more secret codes
@@ -13,8 +15,8 @@ You can try it for free and completely
 It's simple
 
 1. - Install Python 3.X
-2. - Download 0day_1_0_1_2.exe and Run it using cmd
-   - if you get this Error [ [100] Failed to execute script '0day_1_0_1_2' due to unhandled exception! ]
+2. - Download 0day_1_0_1_3.exe and Run it using cmd
+   - if you get this Error [ [100] Failed to execute script '0day_1_0_1_3' due to unhandled exception! ]
    - open cmd and enter to Folder using [ cd folder_name ]
 3. - Setup Your password and enjoy
 
@@ -31,4 +33,4 @@ It's simple
 - [image 4](/screan/Screenshot_4.png)
 - [image 5](/screan/Screenshot_5.png)
 
-- Download Link : https://zero-day.shop/download/0day_1_0_1_2.zip
+- Download Link : https://zero-day.shop
