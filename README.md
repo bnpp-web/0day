@@ -1,5 +1,5 @@
 ## 0day Private Tools
-Last Update : 1.0.1.3
+Last Update : 1.0.1.4
 
 ## Update Log
 - Phonex Now Support Validate Number From Text file
@@ -7,6 +7,7 @@ Last Update : 1.0.1.3
 - PowerMTA Databass Connect to Extract Email (private)
 - Telegram Bigbang Bot Control [NEW]
 - SMTP to SMS
+- Add auto Crack SMTP using Nodje
 
 
 This version contains more secret codes
